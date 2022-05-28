@@ -23,7 +23,7 @@ const preksha = {
                         coorganizer: "...",
                         speaker: "...",
                         mentor: "..."
-                      },
+                      }, ,
  challenge: "..."
 
 }
