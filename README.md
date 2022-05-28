@@ -8,7 +8,7 @@ I am Preksha Alva, currently pursuing my bachelor's degree majoring in informati
 
 ### <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/aboutme.gif" width="50px"> A little more about me...  
 ###  A little more about <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/aboutme1.gif" width="50px">
-### <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/aboutme2.gif" width="50px"> A little more about me...  
+### A little more about me <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/aboutme2.gif" width="50px">  
 ```javascript
 const thai = {
   pronouns: "she" | "her",
