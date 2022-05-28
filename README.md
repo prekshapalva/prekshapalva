@@ -1,7 +1,7 @@
 ## Hello folks! <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/wave.gif" width="30px">
 
 I am Preksha Alva, currently pursuing my bachelor's degree majoring in information science from Sahyadri College of Engineering and Management, Karnataka, India. I am a tech enthusiast & always open to collaborating on projects and developing innovative ideas. I love
-<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/code.gif" width="250px"><img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/reading2.gif" width="200px"> 
+<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/code.gif" width="230px"><img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/reading2.gif" width="200px"> 
 <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/todraw.gif" width="170px">
 <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/coffee.gif" width="170px"> & more.
 
