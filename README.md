@@ -11,7 +11,6 @@ Feel free to connect with me here :
 [![Twitter Badge](https://img.shields.io/badge/-PrekshaAlva-purple?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/PrekshaAlva/)](https://twitter.com/PrekshaAlva)
 [![Gmail Badge](https://img.shields.io/badge/-alvapreksha19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alvapreksha19@gmail.com)](mailto:alvapreksha19@gmail.com)
  
- # ❌ WORK IN PROGRESS ❌
 
 ##  A little more about <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/me.gif" width="30px"> 
 ```javascript
@@ -19,8 +18,8 @@ Feel free to connect with me here :
 const preksha = {
   pronouns: "she" | "her",
   code: [Python, C, C++, HTML, CSS, JS, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  tools: [React, Node, Docker, ..., ..., ],
+  architecture: ["microservices", "design system pattern", "...", "..."],
   techCommunities: {
                         coorganizer: "...",
                         speaker: "...",
