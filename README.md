@@ -2,7 +2,7 @@
 
 I am Preksha Alva, currently pursuing my bachelor's degree majoring in information science from Sahyadri College of Engineering and Management, Karnataka, India. I am a tech enthusiast & always open to collaborating on projects and developing innovative ideas. I love:
 
-<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/code.gif" width="180px">
+<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/code.gif" width="200px">
 
 
 
