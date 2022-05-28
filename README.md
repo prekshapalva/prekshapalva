@@ -14,18 +14,17 @@ I am Preksha Alva, currently pursuing my bachelor's degree majoring in informati
 ###  A little more about <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/sparkle.gif" width="30px">
 
 ```javascript
-const thai = {
+const preksha = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  code: [Python, C, C++, HTML, CSS, JS, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        men
-                        tor: "EducaTRANSforma"
+                        coorganizer: "...",
+                        speaker: "...",
+                        mentor: "..."
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "..."
 
 }
 ```
@@ -33,11 +32,11 @@ const thai = {
 #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+<a href="https://github.com/prekshapalva/...">
+  <img align="center" src="..." />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/prekshapalva/...">
+  <img align="center" src="..." />
 </a>
 
 
