@@ -35,7 +35,7 @@ const preksha = {
 <a href="https://github.com/prekshapalva/...">
   <img align="center" src="..." />
 </a>
-<a href="https://github.com/prekshapalva/...">
+<a href="https://github.com/prekshapalva/ ,...">
   <img align="center" src="..." />
 </a>
 
