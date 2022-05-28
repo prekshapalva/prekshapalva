@@ -3,11 +3,11 @@
 I am Preksha Alva, currently pursuing my bachelor's degree majoring in information science from Sahyadri College of Engineering and Management, Karnataka, India. I am a tech enthusiast & always open to collaborating on projects and developing innovative ideas. I love
 [
 <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/code.gif" width="200px">
-<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/read.gif" width="200px">
+<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/read.gif" width="150px">
 <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/toread.gif" width="100px">
 
-<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/readbook.gif" width="100px">
-<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/readbooks.gif" width="100px">
+<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/readbook.gif" width="200px">
+<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/readbooks.gif" width="200px">
 ]
 
 Find out more about me & feel free to connect with me here:
