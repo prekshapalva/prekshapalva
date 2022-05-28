@@ -1,4 +1,4 @@
-## Hello folks!👋
+## Hello folks! <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/wave.gif" width="30px">
 
 I am Preksha Alva, currently pursuing my bachelor's degree majoring in information science from [Sahyadri College of Engineering and Management]([https://utdallas.edu/](https://sahyadri.edu.in/)), Karnataka, India.I am a tech enthusiast & always open to collaborating on projects and developing innovative ideas. Find out more about me & feel free to connect with me here:
 
