@@ -1,6 +1,6 @@
 ## Hello folks! <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/wave.gif" width="30px">
 
-I am Preksha Alva, currently pursuing my bachelor's degree majoring in information science from [Sahyadri College of Engineering and Management]([https://utdallas.edu/](https://sahyadri.edu.in/)), Karnataka, India.I am a tech enthusiast & always open to collaborating on projects and developing innovative ideas. Find out more about me & feel free to connect with me here:
+I am Preksha Alva, currently pursuing my bachelor's degree majoring in information science from [Sahyadri College of Engineering and Management]([https://sahyadri.edu.in/]), Karnataka, India.I am a tech enthusiast & always open to collaborating on projects and developing innovative ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-prekshapalva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/preksha-p-alva/)](https://www.linkedin.com/in/preksha-p-alva/)
 [![Twitter Badge](https://img.shields.io/badge/-PrekshaAlva-purple?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/PrekshaAlva/)](https://twitter.com/PrekshaAlva)
