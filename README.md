@@ -4,6 +4,7 @@ I am Preksha Alva, currently pursuing my bachelor's degree majoring in informati
 <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/code.gif" width="250px">
 <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/readbooks.gif" width="200px">
 <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/coffee.gif" width="200px">
+<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/coffeetime.gif" width="200px">
 
 
 Find out more about me & feel free to connect with me here:
