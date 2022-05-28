@@ -10,6 +10,7 @@ I love: <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/ma
 
 ##  A little more about <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/me.gif" width="30px"> 
 ```javascript
+
 const preksha = {
   pronouns: "she" | "her",
   code: [Python, C, C++, HTML, CSS, JS, Java],
