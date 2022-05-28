@@ -6,7 +6,7 @@ I am Preksha Alva, currently pursuing my bachelor's degree majoring in informati
 [![Twitter Badge](https://img.shields.io/badge/-PrekshaAlva-purple?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/PrekshaAlva/)](https://twitter.com/PrekshaAlva)
 [![Gmail Badge](https://img.shields.io/badge/-alvapreksha19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alvapreksha19@gmail.com)](mailto:alvapreksha19@gmail.com)
  
-###  A little more about <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/sparkle.gif" width="50px">
+###  A little more about <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/sparkle.gif" width="30px">
 
 ```javascript
 const thai = {
