@@ -22,10 +22,10 @@ const preksha = {
 }
 ```
 ### :earth_africa: Check out some of my community-centric projects  
-- [x] :ambulance: A medical device for early detection of Breast cancer using thermography and ML algorithms. <a href="https://sites.google.com/view/detection-of-breast-cancer/home?authuser=0"><img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/link.png" alt="Aasha" width="10px"></a>
-- [x] :woman: A massager belt to mitigate abdominal cramps and back pain caused due to dysmennorrhea. <a href="https://sites.google.com/view/detection-of-breast-cancer/home?authuser=0"><img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/link.png" alt="LowenWomen" width="10px"></a>
-- [ ] :restroom: A web platform to impart Sex education under the UNESCO guidelines to school students. <a href="https://sites.google.com/view/detection-of-breast-cancer/home?authuser=0"><img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/link.png" alt="ReDhi" width="10px"></a>
-- [ ] :hand: An online assistive extension/tool to enable sign to text conversion during video conferencing. <a href="https://sites.google.com/view/detection-of-breast-cancer/home?authuser=0"><img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/link.png" alt="Aphonere" width="10px"></a>
+- [x] :ambulance: **Aasha** A medical device for early detection of Breast cancer using thermography and ML algorithms. <a href="https://sites.google.com/view/detection-of-breast-cancer/home?authuser=0"><img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/link.png" alt="Aasha" width="15px"></a>
+- [x] :woman: **LowenWomen** A massager belt to mitigate abdominal cramps and back pain caused due to dysmennorrhea. <a href="https://sites.google.com/view/detection-of-breast-cancer/home?authuser=0"><img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/link.png" alt="LowenWomen" width="15px"></a>
+- [ ] :restroom: **ReDhi** A web platform to impart Sex education under the UNESCO guidelines to school students. <a href="https://sites.google.com/view/detection-of-breast-cancer/home?authuser=0"><img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/link.png" alt="ReDhi" width="15px"></a>
+- [ ] :hand: **Aphonere** An online assistive extension/tool to enable sign to text conversion during video conferencing. <a href="https://sites.google.com/view/detection-of-breast-cancer/home?authuser=0"><img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/link.png" alt="Aphonere" width="15px"></a>
 
 ### 👀 You can also find me on 
 <a href="https://www.linkedin.com/in/preksha-p-alva" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="PrekshaAlva-Linkedin" /></a> 
@@ -35,6 +35,8 @@ const preksha = {
 <a href="https://hackerrank.com/.../" target="blank"><img src="https://img.shields.io/badge/-Hakerrank-green?style=for-the-badge&logo=Hackerrank&logoColor=black" alt="PrekshaAlva-Hakerrank" /></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e" target="blank"><img src="https://img.shields.io/badge/Qwiklabs-orange?style=for-the-badge&logo=Qwiklabs" alt="PrekshaAlva-Qwiklabs" /></a>
 <a href="https://auth.geeksforgeeks.org/user/.../" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-brightgreen?style=for-the-badge&logo=GeeksforGeeks" alt="PrekshaAlva-GFG" /></a>
+
+<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/thankyou.gif" width="150px">
 
 ##
 
@@ -49,5 +51,3 @@ const preksha = {
 <a href="https://github.com/prekshapalva/ ,...">
   <img align="center" src="..." />
 </a>
-
-<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/thankyou.gif" width="150px">
