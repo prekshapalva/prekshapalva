@@ -27,7 +27,7 @@ const preksha = {
  challenge: " "
 }
 ```
-### :eyes: Also, have a look at my [<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/qwiklabs.png" width="25"/>](https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e)
+### :eyes: Also, have a look at my   [<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/qwiklabs.png" width="25"/>](https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e), [<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/qwiklabs.png" width="25"/>](https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e), [<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/qwiklabs.png" width="25"/>](https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e), [<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/qwiklabs.png" width="25"/>](https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e) and [<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/qwiklabs.png" width="25"/>](https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e)
 ]
 
 ###  :octocat: Github stats 
