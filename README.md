@@ -31,7 +31,6 @@ const preksha = {
 <a href="https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e" target="blank"><img src="https://img.shields.io/badge/Qwiklabs-orange?style=for-the-badge&logo=Qwiklabs" alt="PrekshaAlva-Qwiklabs" /></a>
 <a href="https://auth.geeksforgeeks.org/user/.../" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-brightgreen?style=for-the-badge&logo=GeeksforGeeks" alt="PrekshaAlva-GFG" /></a>
 
-### :sparkles: Check out some of my community-centric projects  
 ### :earth_africa: Check out some of my community-centric projects  
 * Bullet list Insert heree, work in progress!
 
