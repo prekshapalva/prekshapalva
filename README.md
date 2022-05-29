@@ -10,10 +10,6 @@ Feel free to connect with me here :
 [![Twitter Badge](https://img.shields.io/badge/-PrekshaAlva-purple?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/PrekshaAlva/)](https://twitter.com/PrekshaAlva)
 [![Gmail Badge](https://img.shields.io/badge/-alvapreksha19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alvapreksha19@gmail.com)](mailto:alvapreksha19@gmail.com)
  
-
-### :earth_africa: Check out some of my community-centric projects  
-* Bullet list Insert heree, work in progress!
-
 ### :zap: A little more about me 
 ```javascript
 
@@ -36,9 +32,12 @@ const preksha = {
 | <a href="https://github.com/prekshapalva/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prekshapalva&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Preksha's github stats" /></a> | <a href="https://github.com/prekshapalva/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prekshapalva&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+
+### :earth_africa: Check out some of my community-centric projects  
+* Bullet list Insert heree, work in progress!
+
+
 ## Top Repositories
-
-
 <a href="https://github.com/prekshapalva/...">
   <img align="center" src="..." />
 </a>
