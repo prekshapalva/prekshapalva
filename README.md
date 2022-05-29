@@ -9,6 +9,8 @@ Feel free to connect with me here :
 [![Linkedin Badge](https://img.shields.io/badge/-prekshapalva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/preksha-p-alva/)](https://www.linkedin.com/in/preksha-p-alva/)
 [![Twitter Badge](https://img.shields.io/badge/-PrekshaAlva-purple?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/PrekshaAlva/)](https://twitter.com/PrekshaAlva)
 [![Gmail Badge](https://img.shields.io/badge/-alvapreksha19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alvapreksha19@gmail.com)](mailto:alvapreksha19@gmail.com)
+
+Also, have a look at my [<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/qwiklabs.png" width="25"/>](https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e) [<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/hackerrank.png" width="25"/>](https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e) [<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/leetcode.png" width="25"/>](https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e) [<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/geeksforgeeks.png" width="45"/>](https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e) [<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/duolingo.png" width="25"/>](https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e) profiles!
  
 ### :sparkles: A little more about me
 ```javascript
