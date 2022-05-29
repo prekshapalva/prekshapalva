@@ -22,7 +22,7 @@ const preksha = {
 }
 ```
 ### :earth_africa: Check out some of my community-centric projects  
-- [x] :ambulance: A medical device for early detection of Breast cancer using thermography and ML algorithms. <a href="https://sites.google.com/view/detection-of-breast-cancer/about"><img src="https://img.shields.io/badge/Link-0077B5?style=for-the-badge&logo=link&logoColor=white" alt="P" width="150px"></a>
+- [x] :ambulance: A medical device for early detection of Breast cancer using thermography and ML algorithms. <a href="https://sites.google.com/view/detection-of-breast-cancer/home?authuser=0"><img src="" alt="P" width="10px"></a>
 - [x] :woman: A massager belt to mitigate abdominal cramps and back pain caused due to dysmennorrhea.
 - [ ] :restroom: A web platform to impart Sex education under the UNESCO guidelines to school students.
 - [ ] :hand: An online assistive extension/tool to enable sign to text conversion during video conferencing.
