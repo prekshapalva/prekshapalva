@@ -11,10 +11,10 @@ Feel free to connect with me here :
 [![Gmail Badge](https://img.shields.io/badge/-alvapreksha19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alvapreksha19@gmail.com)](mailto:alvapreksha19@gmail.com)
  
 
-### :earth_africa: Check out some of my community-centric projects  <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/planet.gif" width="50px">  
+### :earth_africa: Check out some of my community-centric projects  
 "Insert heree, work in progress!
 
-##  A little more about me <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/peace.gif" width="50px"> 
+### :tada: A little more about me <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/peace.gif" width="50px"> 
 ```javascript
 
 const preksha = {
@@ -32,7 +32,7 @@ const preksha = {
 }
 ```
 
-##  Github stats  <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/party.gif" width="50px">
+###  :octocat: Github stats  <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/party.gif" width="50px">
 | <a href="https://github.com/prekshapalva/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prekshapalva&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Preksha's github stats" /></a> | <a href="https://github.com/prekshapalva/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prekshapalva&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
