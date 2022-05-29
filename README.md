@@ -10,21 +10,21 @@ Feel free to connect with me here :
 [![Twitter Badge](https://img.shields.io/badge/-PrekshaAlva-purple?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/PrekshaAlva/)](https://twitter.com/PrekshaAlva)
 [![Gmail Badge](https://img.shields.io/badge/-alvapreksha19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alvapreksha19@gmail.com)](mailto:alvapreksha19@gmail.com)
  
-### A little more about me :zap: 
+### :sparkles: A little more about me
 ```javascript
-
 const preksha = {
   pronouns: "she" | "her",
-  code: [Python, C, C++, HTML, CSS, JS, Java],
-  tools: [React, Node, Docker, ..., ..., ],
-  architecture: ["microservices", "design system pattern", "...", "..."],
+  languages: [Python, C, C++, Java, SQL, PHP, HTML, JavaScript],
+  tools: [React, Node, MySQL, Wirehark, Keil, Docker, Adobe Illustrator, Adobe XD, Figma and Canva ],
+  platforms: ["GCP", "Microsoft Azur"e, "Postman", "IDEs - VS Code, Pycharm, Android Studio and Colab"],
+  frameworks: [Flask, Django, Bootstrap, Tensorflow]
   techCommunities: {
-                        coorganizer: "...",
-                        speaker: "...",
-                        mentor: "..."
+                        Women who code: "member",
+                        OWASP Bangalore: "member",
+                        IEEE: "student member",
+                        WomenTech Network: "member"
                       }, ,
  challenge: "..."
-
 }
 ```
 
