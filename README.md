@@ -27,8 +27,8 @@ const preksha = {
  challenge: " "
 }
 ```
-[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/user/repository/subscription)
-### :eyes: Also, have a look at: ![qwiklabs](https://github.com/prekshaplava/prekshapalva/qwiklabs.png)
+[<img src="https://iconscout.com/icon/duolingo" width="25"/>](https://github.com/user/repository/subscription)
+### :eyes: Also, have a look at: ![](https://github.com/prekshaplava/prekshapalva/qwiklabs.png)
 ###  :octocat: Github stats 
 | <a href="https://github.com/prekshapalva/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prekshapalva&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Preksha's github stats" /></a> | <a href="https://github.com/prekshapalva/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prekshapalva&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
