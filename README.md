@@ -46,3 +46,5 @@ const preksha = {
 </a>
 
 
+<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/thankyou.gif" width="100px">
+
