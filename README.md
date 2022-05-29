@@ -12,7 +12,7 @@ Feel free to connect with me here :
  
 
 ### :earth_africa: Check out some of my community-centric projects  
-"Insert heree, work in progress!
+* Bullet list Insert heree, work in progress!
 
 ### :zap: A little more about me 
 ```javascript
