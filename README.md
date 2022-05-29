@@ -22,9 +22,9 @@ const preksha = {
 }
 ```
 ### :earth_africa: Check out some of my community-centric projects  
-- [x] :ambulance: A medical device for early detection of Breast cancer using thermal imaging and ML algorithms.
-- [x] :womens: A massager belt to mitigate abdominal cramps and back pain caused due to primary dysmennorrhea.
-- [ ] :sex: 
+- [x] :ambulance: A medical device for early detection of Breast cancer using thermography and ML algorithms.
+- [x] :womens: A massager belt to mitigate abdominal cramps and back pain caused due to dysmennorrhea.
+- [ ] :gender: 
 - [ ] :hand: An online assistive tool to enable sign to text conversion during video conferencing.
 
 ### 👀 You can also find me on 
