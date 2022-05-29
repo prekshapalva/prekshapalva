@@ -28,8 +28,11 @@ const preksha = {
 }
 ```
 ### :eyes: Also, have a look at my profiles   
-- Qwiklabs Skill badges:[<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/qwiklabs.png" width="25"/>](https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e) | Challenges:[<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/qwiklabs.png" width="25"/>](https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e)
-- Hackerearth [<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/qwiklabs.png" width="25"/>](https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e), [<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/qwiklabs.png" width="25"/>](https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e), [<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/qwiklabs.png" width="25"/>](https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e) and [<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/qwiklabs.png" width="25"/>](https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e)
+Qwiklabs[<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/qwiklabs.png" width="25"/>](https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e)
+Hackerearth [<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/hackerrank.png" width="25"/>](https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e), 
+LeetCode [<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/leetcode.png" width="25"/>](https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e), 
+GeeksforGeeks[<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/geeksforgeeks.png" width="25"/>](https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e) 
+Duolingo [<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/duolingo.png" width="25"/>](https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e)
 ]
 
 ###  :octocat: Github stats 
