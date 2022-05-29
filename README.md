@@ -30,6 +30,7 @@ const preksha = {
 <a href="https://twitter.com/PrekshaAlva" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="PrekshaAlva-Twitter" /></a>
 <a href="https://leetcode.com/.../" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="PrekshaAlva-Leetcode" /></a>
 <a href="https://auth.geeksforgeeks.org/user/.../profile" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-brightgreen?style=for-the-badge&logo=GeeksforGeeks" alt="PrekshaAlva-GFG" /></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e" target="blank"><img src="https://img.shields.io/badge/Qwiklabs-brightyellow?style=for-the-badge&logo=Qwiklabs" alt="PrekshaAlva-Qwiklabs" /></a>
 
 Feel free to connect with me on
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/preksha-p-alva/)](https://www.linkedin.com/in/preksha-p-alva/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-purple?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/PrekshaAlva/)](https://twitter.com/PrekshaAlva) 
