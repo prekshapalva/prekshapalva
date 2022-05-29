@@ -32,8 +32,8 @@ const preksha = {
 <a href="https://auth.geeksforgeeks.org/user/.../" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-brightgreen?style=for-the-badge&logo=GeeksforGeeks" alt="PrekshaAlva-GFG" /></a>
 
 ### :earth_africa: Check out some of my community-centric projects  
-- [x] A medical device for early detection of Breast cancer using thermal imaging <a href="[(https://sites.google.com/view/detection-of-breast-cancer/)]" target="blank"><img src="https://img.shields.io/badge/-Web-blue?style=for-the-badge&logo=Web&logoColor=black" alt="Aasha-EarlyDetectionOfBreastCancer" /></a>
-- [x] A massager belt to 
+- [x] :ambulance: A medical device for early detection of Breast cancer using thermal imaging and ML algorithms.
+- [x] :womens: A massager belt to mitigate abdominal cramps and back pain caused due to primary dysmennorrhea.
 - [ ] A completed task
 
 ##
