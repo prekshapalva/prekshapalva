@@ -24,7 +24,7 @@ const preksha = {
                                 "IEEE SCEM chapter",
                                 "WomenTech Network"
                       }, ,
- challenge: "Anything :muscle:"
+ challenge: " "
 }
 ```
 
