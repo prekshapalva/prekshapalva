@@ -37,11 +37,11 @@ const preksha = {
 <a href="https://auth.geeksforgeeks.org/user/.../" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-brightgreen?style=for-the-badge&logo=GeeksforGeeks" alt="PrekshaAlva-GFG" /></a>
 
 ##
-###  :octocat: Github stats 
+### :octocat: Github stats 
 | <a href="https://github.com/prekshapalva/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prekshapalva&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Preksha's github stats" /></a> | <a href="https://github.com/prekshapalva/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prekshapalva&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-### Top Repositories
+### :star:Top Repositories
 <a href="https://github.com/prekshapalva/...">
   <img align="center" src="..." />
 </a>
