@@ -26,11 +26,11 @@ const preksha = {
 
 ## 👀 You can also find me on 
 
-<a href="https://mailto:alvapreksha19@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-C14338?style=flat-square&logo=Gmail&logoColor=white" alt="PrekshaAlva-Gmail" /></a>
+<a href="mailto:alvapreksha19@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-C14338?style=flat-square&logo=Gmail&logoColor=white" alt="PrekshaAlva-Gmail" /></a>
 <a href="https://twitter.com/PrekshaAlva" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="PrekshaAlva-Twitter" /></a>
 <a href="https://www.linkedin.com/in/preksha-p-alva" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="PrekshaAlva-Linkedin" /></a>
 <a href="https://leetcode.com/" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="PrekshaAlva-Leetcode" /></a>
-<a href="https://auth.geeksforgeeks.org/user/PrekshaAlva/profile" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-brightgreen?style=for-the-badge&logo=GeeksforGeeks" alt="PrekshaAlva-GFG" /></a>
+<a href="https://auth.geeksforgeeks.org/user/.../profile" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-brightgreen?style=for-the-badge&logo=GeeksforGeeks" alt="PrekshaAlva-GFG" /></a>
 
 Feel free to connect with me on
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/preksha-p-alva/)](https://www.linkedin.com/in/preksha-p-alva/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-purple?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/PrekshaAlva/)](https://twitter.com/PrekshaAlva) 
