@@ -19,12 +19,12 @@ const preksha = {
   platforms: ["GCP", "Microsoft Azur"e, "Postman", "IDEs - VS Code, Pycharm, Android Studio and Colab"],
   frameworks: [Flask, Django, Bootstrap, Tensorflow]
   techCommunities: {
-                        Women who code: "member",
-                        OWASP Bangalore: "member",
-                        IEEE: "student member",
-                        WomenTech Network: "member"
+                        Member: "Women who code",
+                                "OWASP Bangalore",
+                                "IEEE SCEM chapter",
+                                "WomenTech Network"
                       }, ,
- challenge: "..."
+ challenge: "Anything :muscle:"
 }
 ```
 
