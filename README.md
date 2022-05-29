@@ -21,6 +21,11 @@ const preksha = {
  challenge: " "
 }
 ```
+### :earth_africa: Check out some of my community-centric projects  
+- [x] :ambulance: A medical device for early detection of Breast cancer using thermal imaging and ML algorithms.
+- [x] :womens: A massager belt to mitigate abdominal cramps and back pain caused due to primary dysmennorrhea.
+- [ ] :sex: 
+- [ ] :hand: An online assistive tool to enable sign to text conversion during video conferencing.
 
 ### 👀 You can also find me on 
 <a href="https://www.linkedin.com/in/preksha-p-alva" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="PrekshaAlva-Linkedin" /></a> 
@@ -30,11 +35,6 @@ const preksha = {
 <a href="https://hackerrank.com/.../" target="blank"><img src="https://img.shields.io/badge/-Hakerrank-green?style=for-the-badge&logo=Hackerrank&logoColor=black" alt="PrekshaAlva-Hakerrank" /></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e" target="blank"><img src="https://img.shields.io/badge/Qwiklabs-orange?style=for-the-badge&logo=Qwiklabs" alt="PrekshaAlva-Qwiklabs" /></a>
 <a href="https://auth.geeksforgeeks.org/user/.../" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-brightgreen?style=for-the-badge&logo=GeeksforGeeks" alt="PrekshaAlva-GFG" /></a>
-
-### :earth_africa: Check out some of my community-centric projects  
-- [x] :ambulance: A medical device for early detection of Breast cancer using thermal imaging and ML algorithms.
-- [x] :womens: A massager belt to mitigate abdominal cramps and back pain caused due to primary dysmennorrhea.
-- [ ] A completed task
 
 ##
 
