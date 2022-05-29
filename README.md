@@ -15,7 +15,7 @@ Feel free to connect with me here :
 ##  Check out some of my community-centric projects - 
 "Insert heree, work in progress!
 
-##  A little more about me <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/me.gif" width="50px"> 
+##  A little more about me <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/peace.gif" width="50px"> 
 ```javascript
 
 const preksha = {
