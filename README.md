@@ -27,14 +27,17 @@ const preksha = {
  challenge: " "
 }
 ```
-### :eyes: Also, have a look at my profiles   
-Qwiklabs[<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/qwiklabs.png" width="25"/>](https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e)
-Hackerearth [<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/hackerrank.png" width="25"/>](https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e), 
-LeetCode [<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/leetcode.png" width="25"/>](https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e), 
-GeeksforGeeks[<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/geeksforgeeks.png" width="25"/>](https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e) 
-Duolingo [<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/duolingo.png" width="25"/>](https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e)
+### :eyes: 
+
+### Also, have a look at my profiles   
+[<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/qwiklabs.png" width="25"/>](https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e)
+[<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/hackerrank.png" width="25"/>](https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e), 
+[<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/leetcode.png" width="25"/>](https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e), 
+[<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/geeksforgeeks.png" width="25"/>](https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e) 
+[<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/duolingo.png" width="25"/>](https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e)
 ]
 
+Qwiklabs Hackerearth LeetCode  GeeksforGeeks Duolingo
 ###  :octocat: Github stats 
 | <a href="https://github.com/prekshapalva/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prekshapalva&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Preksha's github stats" /></a> | <a href="https://github.com/prekshapalva/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prekshapalva&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
