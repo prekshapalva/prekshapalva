@@ -32,8 +32,8 @@ const preksha = {
 <a href="https://auth.geeksforgeeks.org/user/.../" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-brightgreen?style=for-the-badge&logo=GeeksforGeeks" alt="PrekshaAlva-GFG" /></a>
 
 ### :earth_africa: Check out some of my community-centric projects  
-- [x] Early detection of Breast cancer using thermal imaging 
-- [x] A medical device named "Aasha"  for early detection of breast cancer using Thermography. The proposed solution is a low cost, noninvasive and portable cancer screening tool that works for women of all age.
+- [x] A medical device for early detection of Breast cancer using thermal imaging <a href="[(https://sites.google.com/view/detection-of-breast-cancer/)]" target="blank"><img src="https://img.shields.io/badge/-Web-blue?style=for-the-badge&logo=Web&logoColor=black" alt="Aasha-EarlyDetectionOfBreastCancer" /></a>
+- [x] A massager belt to 
 - [ ] A completed task
 
 ##
