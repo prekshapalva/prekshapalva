@@ -26,7 +26,7 @@ const preksha = {
 
 ## 👀 You can also find me on 
 
-<a href="mailto:alvapreksha19@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-C14338?style=flat-square&logo=Gmail&logoColor=white" alt="PrekshaAlva-Gmail" /></a>
+<a href="mailto:alvapreksha19@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-C14338?style=flat-square&logo=Gmail&logoColor=white" alt="PrekshaAlva-Gmail" /></a>
 <a href="https://twitter.com/PrekshaAlva" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="PrekshaAlva-Twitter" /></a>
 <a href="https://www.linkedin.com/in/preksha-p-alva" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="PrekshaAlva-Linkedin" /></a>
 <a href="https://leetcode.com/" target="blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="PrekshaAlva-Leetcode" /></a>
