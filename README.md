@@ -32,8 +32,8 @@ const preksha = {
 <a href="https://auth.geeksforgeeks.org/user/.../" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-brightgreen?style=for-the-badge&logo=GeeksforGeeks" alt="PrekshaAlva-GFG" /></a>
 
 ### :earth_africa: Check out some of my community-centric projects  
-&nbsp; &nbsp;- [ ] An uncompleted task
-&nbsp; &nbsp;- [x] A completed task
+&nbsp; &nbsp;  - [ ] An uncompleted task
+&nbsp; &nbsp;  - [x] A completed task
 
 ##
 
