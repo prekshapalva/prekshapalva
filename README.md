@@ -14,7 +14,7 @@ Feel free to connect with me here :
 ### :earth_africa: Check out some of my community-centric projects  
 "Insert heree, work in progress!
 
-### :zap: A little more about me <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/peace.gif" width="50px"> 
+### :zap: A little more about me 
 ```javascript
 
 const preksha = {
