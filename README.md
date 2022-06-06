@@ -1,4 +1,4 @@
-## Hello folks!<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/wave.gif" width=10>
+## Hello folks!<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/wave.gif" width=60>
 I am Preksha Alva, currently pursuing my bachelor's degree majoring in Information science from Sahyadri College of Engineering and Management, India. I am a tech enthusiast & always open to collaborating on projects and developing innovative ideas. I love
 
 
