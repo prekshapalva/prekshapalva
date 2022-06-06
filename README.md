@@ -1,8 +1,8 @@
-## Hello folks!<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/wave.gif" width=60>
+## Hello folks!<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/wave.gif" width=50>
 I am Preksha Alva, currently pursuing my bachelor's degree majoring in Information science from Sahyadri College of Engineering and Management, India. I am a tech enthusiast & always open to collaborating on projects and developing innovative ideas. I love
 
 
-<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/code.gif" width="70px"> <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/reading2.gif" width="70px"> <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/todraw.gif" width="70px"> <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/coffee.gif" width="70px"> & more.
+<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/code.gif" width=70> <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/reading2.gif" width=70px> <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/todraw.gif" width=70> <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/coffee.gif" width=70> & more.
 
 ### :sparkles: A little more about me
 ```javascript
