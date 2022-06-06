@@ -51,4 +51,4 @@ const preksha = {
   <img align="center" src="..." />
 </a>
 
-<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/thankyou.gif" width=90>
+<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/thankyou.gif" width=120>
