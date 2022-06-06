@@ -18,6 +18,7 @@ const preksha = {
                       }, ,
  challenge: " "
 }
+
 ```
 ### :earth_africa: Check out some of my community-centric projects  
 - [x] :ambulance: **Aasha** A medical device for early detection of Breast cancer using thermography and ML algorithms. <a href="https://sites.google.com/view/detection-of-breast-cancer/home?authuser=0"><img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/link.png" alt="Aasha" width="15px"></a>
