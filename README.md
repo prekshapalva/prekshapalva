@@ -24,7 +24,7 @@ const preksha = {
 ```
 ### :earth_africa: Check out some of my community-centric projects  
 - [x] :ambulance: **Aasha** A medical device for early detection of Breast cancer using thermography and ML algorithms. <a href="https://sites.google.com/view/detection-of-breast-cancer/home?authuser=0"><img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/link.png" alt="Aasha" width="15px"></a>
-- [x] :woman: **LowenWomen** A massager belt to mitigate abdominal cramps and back pain caused due to dysmennorrhea. <a href="https://sites.google.com/view/detection-of-breast-cancer/home?authuser=0"><img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/link.png" alt="LowenWomen" width="15px"></a>
+- [x] :woman: **LowenWomen** A massager belt to mitigate abdominal cramps and back pain caused due to dysmennorrhea. <a href="https://sites.google.com/view/lowenwomen/home"><img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/link.png" alt="LowenWomen" width="15px"></a>
 - [ ] :restroom: **ReDhi** A web platform to impart Sex education under the UNESCO guidelines to school students. <a href="https://sites.google.com/view/detection-of-breast-cancer/home?authuser=0"><img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/link.png" alt="ReDhi" width="15px"></a>
 - [ ] :hand: **Aphonere** An online assistive extension/tool to enable sign to text conversion during video conferencing. <a href="https://sites.google.com/view/detection-of-breast-cancer/home?authuser=0"><img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/link.png" alt="Aphonere" width="15px"></a>
 
