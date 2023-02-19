@@ -1,5 +1,5 @@
 ## Hello folks!<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/wave.gif" width=40>
-I am Preksha Alva, currently pursuing my bachelor's degree majoring in Information science from Sahyadri College of Engineering and Management, India. I am a tech enthusiast & always open to collaborating on projects and developing innovative ideas. I love
+I am Preksha Praveen Alva, currently pursuing my bachelor's degree majoring in Information science from Sahyadri College of Engineering and Management, India. I am a tech enthusiast & always open to collaborating on projects and developing innovative ideas. I love
 
 
 <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/code.gif" width=210> <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/reading2.gif" width=170> <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/todraw.gif" width=170> <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/coffee.gif" width=160> & more.
@@ -8,13 +8,13 @@ I am Preksha Alva, currently pursuing my bachelor's degree majoring in Informati
 ```javascript
 const preksha = {
   pronouns: "she" | "her",
-  languages: [Python, C, C++, Java, SQL, PHP, HTML, JavaScript],
+  languages: [Python, C, C++, Java, SQL, PHP, HTML],
   tools: [React, Node, MySQL, Wirehark, Keil, Docker, Adobe Illustrator, Adobe XD, Figma and Canva ],
-  platforms: ["GCP", "Microsoft Azur"e, "Postman", "IDEs - VS Code, Pycharm, Android Studio and Colab"],
+  platforms: ["GCP", "Microsoft Azure", "Postman", "IDEs - VS Code, Pycharm, Android Studio and Colab"],
   frameworks: [Flask, Django, Bootstrap, Tensorflow]
-  techCommunities: {
+  Communities: {
                         Member: "Women who code",
-                                "OWASP Bangalore",
+                                "Young Leadership Program, SCEM",
                                 "IEEE SCEM chapter",
                                 "WomenTech Network"
                       }, ,
@@ -38,11 +38,8 @@ const preksha = {
 <a href="https://auth.geeksforgeeks.org/user/.../" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-brightgreen?style=for-the-badge&logo=GeeksforGeeks" alt="PrekshaAlva-GFG" /></a>
 
 ##
-### :octocat:Github stats 
-| <a href="https://github.com/prekshapalva/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prekshapalva&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Preksha's github stats" /></a> | <a href="https://github.com/prekshapalva/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prekshapalva&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
-### :star:Top Repositories
+### :octocat:Top Repositories
 <a href="https://github.com/prekshapalva/...">
   <img align="center" src="..." />
 </a>
@@ -50,5 +47,7 @@ const preksha = {
   
   <img align="center" src="..." />
 </a>
+
+##
 
 <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/thankyou.gif" width=120>
