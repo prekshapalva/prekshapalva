@@ -1,6 +1,5 @@
-## Hello folks!<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/wave.gif" width=40>
-I am Preksha Praveen Alva, currently pursuing my bachelor's degree majoring in Information science from Sahyadri College of Engineering and Management, India. I am a tech enthusiast & always open to collaborating on projects and developing innovative ideas. I love
-
+## Hello folks, Preksha Here!<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/wave.gif" width=40>
+I am currently pursuing my bachelor's degree majoring in Information Science (ISE) from Sahyadri College of Engineering and Management, India. I am a tech enthusiast who is always open to collaborating on projects and developing innovative ideas. I am in love with --
 
 <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/code.gif" width=210> <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/reading2.gif" width=170> <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/todraw.gif" width=170> <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/coffee.gif" width=160> & more.
 
