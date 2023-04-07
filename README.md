@@ -35,6 +35,7 @@ const preksha = {
 ##
 
 ### :octocat: Thank you!
+Thanks for scrolling this far. You've proven yourself worthy of a virtual high-five. Keep coding and may the bugs be ever in your favor! 
 <!-- <a href="https://github.com/prekshapalva/Air-Canvas.git">
   <img align="center" src="..." />
 </a>
