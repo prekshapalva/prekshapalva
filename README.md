@@ -31,11 +31,11 @@ const preksha = {
 <a href="https://hackerrank.com/.../" target="blank"><img src="https://img.shields.io/badge/-Hakerrank-green?style=for-the-badge&logo=Hackerrank&logoColor=black" alt="PrekshaAlva-Hakerrank" /></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/137d0387-aac2-4ce2-ba86-7f9a318f632e" target="blank"><img src="https://img.shields.io/badge/Qwiklabs-orange?style=for-the-badge&logo=Qwiklabs" alt="PrekshaAlva-Qwiklabs" /></a>
 <a href="https://auth.geeksforgeeks.org/user/.../" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-brightgreen?style=for-the-badge&logo=GeeksforGeeks" alt="PrekshaAlva-GFG" /></a>  -->
-
+ 
 ##
 
-### :octocat:Top Repositories
-<a href="https://github.com/prekshapalva/Air-Canvas.git">
+### :octocat: Thank you!
+<!-- <a href="https://github.com/prekshapalva/Air-Canvas.git">
   <img align="center" src="..." />
 </a>
 <a href="https://github.com/prekshapalva/Aasha-Web-App.git">
@@ -43,7 +43,6 @@ const preksha = {
 </a>
 <a href="https://github.com/prekshapalva/LZW-Algorithm.git">
   <img align="center" src="..." />
-</a>
-##
+</a> 
 
-<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/thankyou.gif" width=120>
+<img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/thankyou.gif" width=120> -->
