@@ -12,20 +12,18 @@ const preksha = {
   platforms: ["GCP", "Microsoft Azure", "Postman", "IDEs - VS Code, Pycharm, Android Studio and Colab"],
   frameworks: [Flask, Django, Bootstrap, Tensorflow]
   Communities: {
-                        Member: "Women who code",
-                                "Young Leadership Program, SCEM",
+                        Member: "Young Leadership Program, SCEM",
                                 "IEEE SCEM chapter",
                                 "WomenTech Network"
-                      }, ,
- challenge: " "
+                      }
 }
 
 ```
 ### :earth_africa: Check out some of my community-centric projects  
 - [x] :ambulance: **Aasha** A medical device for early detection of Breast cancer using thermography and ML algorithms. <a href="https://sites.google.com/view/detection-of-breast-cancer/home?authuser=0"><img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/link.png" alt="Aasha" width="15px"></a>
 - [x] :woman: **LowenWomen** A massager belt to mitigate abdominal cramps and back pain caused due to dysmennorrhea. <a href="https://sites.google.com/view/lowenwomen/home"><img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/link.png" alt="LowenWomen" width="15px"></a>
-- [ ] :restroom: **ReDhi** A web platform to impart Sex education under the UNESCO guidelines to school students. <a href="https://sites.google.com/view/detection-of-breast-cancer/home?authuser=0"><img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/link.png" alt="ReDhi" width="15px"></a>
-- [ ] :hand: **Aphonere** An online assistive extension/tool to enable sign to text conversion during video conferencing. <a href="https://sites.google.com/view/detection-of-breast-cancer/home?authuser=0"><img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/link.png" alt="Aphonere" width="15px"></a>
+- [ ] :restroom: **C.L.A.P** A web platform to impart Sex education under the UNESCO guidelines to school students. <a href="https://sites.google.com/view/clapedtech/home"><img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/link.png" alt="CLAP" width="15px"></a>
+- [ ] :hand: **Aphonere** An online assistive extension/tool to enable sign to text conversion during video conferencing. <a href="https://github.com/prekshapalva/Aphonere"><img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/link.png" alt="Aphonere" width="15px"></a>
 
 ### 👀 You can also find me on 
 <a href="https://www.linkedin.com/in/preksha-p-alva" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="PrekshaAlva-Linkedin" /></a> 
@@ -39,14 +37,15 @@ const preksha = {
 ##
 
 ### :octocat:Top Repositories
-<a href="https://github.com/prekshapalva/...">
-  <img align="center" src="..." />
+<a href="https://github.com/prekshapalva/Air-Canvas.git">
+  <img align="center" src="https://github.com/prekshapalva/Air-Canvas.git" />
 </a>
-<a href="https://github.com/prekshapalva/ ,...">
-  
-  <img align="center" src="..." />
+<a href="https://github.com/prekshapalva/Aasha-Web-App.git">
+  <img align="center" src="https://github.com/prekshapalva/Aasha-Web-App.git" />
 </a>
-
+<a href="https://github.com/prekshapalva/LZW-Algorithm.git">
+  <img align="center" src="https://github.com/prekshapalva/LZW-Algorithm.git" />
+</a>
 ##
 
 <img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/thankyou.gif" width=120>
