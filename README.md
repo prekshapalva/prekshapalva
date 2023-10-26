@@ -16,15 +16,16 @@ const preksha = {
                                 "IEEE SCEM chapter",
                                 "WomenTech Network"
                       }
- Experiences: ["Cloud associate intern @ Niveus Solutions", "Content writer @ Goa Prism"]
+ Experiences: ["Intern - Customer Engineering @ Niveus Solutions", ".Net Developer Intern @ LTIMindtree", "Content writer @ Goa Prism"]
 }
 
 ```
 ### :earth_africa: Check out some of my community-centric projects  
 - [x] :ambulance: **Aasha** A medical device for early detection of Breast cancer using thermography and ML algorithms. <a href="https://sites.google.com/view/detection-of-breast-cancer/home?authuser=0"><img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/link.png" alt="Aasha" width="15px"></a>
 - [x] :woman: **LowenWomen** A massager belt to mitigate abdominal cramps and back pain caused due to dysmennorrhea. <a href="https://sites.google.com/view/lowenwomen/home"><img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/link.png" alt="LowenWomen" width="15px"></a>
+- [x] :hand: **Aphonere** An online assistive extension/tool to enable sign to text conversion during video conferencing. <a href="https://github.com/prekshapalva/Aphonere"><img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/link.png" alt="Aphonere" width="15px"></a>
 - [ ] :restroom: **C.L.A.P** A web platform to impart Sex education under the UNESCO guidelines to school students. <a href="https://sites.google.com/view/clapedtech/home"><img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/link.png" alt="CLAP" width="15px"></a>
-- [ ] :hand: **Aphonere** An online assistive extension/tool to enable sign to text conversion during video conferencing. <a href="https://github.com/prekshapalva/Aphonere"><img src="https://raw.githubusercontent.com/prekshapalva/prekshapalva/master/link.png" alt="Aphonere" width="15px"></a>
+
 
 ### 👀 You can reach out to me on    <a href="https://www.linkedin.com/in/preksha-p-alva" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="PrekshaAlva-Linkedin" /></a>  <a href="https://twitter.com/PrekshaAlva" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="PrekshaAlva-Twitter" /></a>  <a href="mailto:alvapreksha19@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="PrekshaAlva-Gmail" /></a> 
 
@@ -36,7 +37,7 @@ const preksha = {
 ##
 
 ### :octocat: Thank you!
-Thanks for scrolling this far. You've proven yourself worthy of a virtual high-five. Happy coding! 
+Thanks for scrolling this far. You've proven yourself worthy of a virtual high-five. I have a plenty of private repositories of exciting projects, if you are interested in collaborating on the same, please feel free to reach out. Happy coding! 
 <!-- <a href="https://github.com/prekshapalva/Air-Canvas.git">
   <img align="center" src="..." />
 </a>
