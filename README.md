@@ -15,8 +15,11 @@ const preksha = {
                         Member: "Young Leadership Program, SCEM",
                                 "IEEE SCEM chapter",
                                 "WomenTech Network"
-                      }
- Experiences: ["Intern - Customer Engineering @ Niveus Solutions", ".Net Developer Intern @ LTIMindtree", "Content writer @ Goa Prism"]
+               }
+ Experiences: [ "Intern - Customer Engineering @ Niveus Solutions",
+                ".Net Developer Intern @ LTIMindtree",
+                "Content writer @ Goa Prism"
+              ]
 }
 
 ```
